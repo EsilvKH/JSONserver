@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Company1",
+    "companyId": 1,
+    "userId": 1,
+    "questions": [
+      {
+        "id": 1,
+        "title": "What is the name of your company",
+        "answers": ","
+      },
+      {
+        "id": 2,
+        "title": "What is the address of your company",
+        "answers": ","
+      },
+      {
+        "id": 3,
+        "title": "Give a brief description of your company",
+        "answers": ","
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      },
+      {
+        "id": 2,
+        "body": "some comment",
+        "postId": 1
+      }
+    ]
+  },
+  {
+    "name": "Company2",
+    "companyId": 2,
+    "userId": 2,
+    "questions": [
+      {
+        "id": 1,
+        "title": "What is the name of your company",
+        "answers": ","
+      },
+      {
+        "id": 2,
+        "title": "What is the address of your company",
+        "answers": ","
+      },
+      {
+        "id": 3,
+        "title": "Give a brief description of your company",
+        "answers": ","
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 2
+      },
+      {
+        "id": 2,
+        "body": "some comment",
+        "postId": 2
+      }
+    ]
+  }
+]
